@@ -12,7 +12,7 @@ Bu proje ile WEB API üzerinden verilen sabit bir mail adresi ile istekte bulunu
 
 # Endpointler
 
-<img src="[gorsel-link](https://easyupload.io/2gkgbw)https://easyupload.io/2gkgbw" height="700" width="600px">
+<img src="https://easyupload.io/2gkgbw" height="700" width="600px">
 
 
 
