@@ -7,8 +7,8 @@ Bu proje ile WEB API üzerinden verilen sabit bir mail adresi ile istekte bulunu
 # Kullanılan Teknolojiler
 
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) Entity Framework Core 6.0
-[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) N-Tier Architecture
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) Microsoft SQL Server (DB)
+[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) N-Tier Architecture
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) MailKit Package
 
 # Endpointler
