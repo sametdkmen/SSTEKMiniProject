@@ -12,7 +12,7 @@ Bu proje ile WEB API üzerinden verilen sabit bir mail adresi ile istekte bulunu
 
 # Endpointler
 
-<img src="[https://easyupload.io/2gkgbw](https://svgshare.com/i/xS3.svg)https://svgshare.com/i/xS3.svg" height="700" width="600px">
+<img src="https://svgshare.com/i/xS3.svg" height="700" width="1200px">
 
 
 
