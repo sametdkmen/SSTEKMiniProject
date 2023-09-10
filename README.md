@@ -9,7 +9,7 @@ Bu proje ile WEB API üzerinden verilen sabit bir mail adresi ile istekte bulunu
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) Entity Framework Core 6.0 <br/>
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) Microsoft SQL Server (DB) <br/>
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) N-Tier Architecture <br/>
-[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) AutoMapper
+[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) AutoMapper <br/>
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) MailKit Package
 
 # Endpointler
