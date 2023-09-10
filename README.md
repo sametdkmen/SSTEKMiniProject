@@ -10,5 +10,9 @@ Bu proje ile WEB API üzerinden verilen sabit bir mail adresi ile istekte bulunu
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) N-Tier Architecture
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) MailKit Package
 
+# Endpointler
+
+<img src="[gorsel-link](https://easyupload.io/2gkgbw)https://easyupload.io/2gkgbw" height="700" width="600px">
+
 
 
