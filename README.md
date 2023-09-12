@@ -13,7 +13,7 @@ Bu proje ile WEB API üzerinden verilen sabit bir mail adresi ile istekte bulunu
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) MailKit Package
 
 # Endpointler
-<img src="https://svgshare.com/i/xS3.svg" height="700" width="1200px">
+<img src="https://svgshare.com/i/xS3.svg" height="500" width="1200px">
 
 
 
